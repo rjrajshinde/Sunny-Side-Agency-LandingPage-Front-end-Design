@@ -213,3 +213,41 @@
     font-size: 15px;
   }
 }
+@media (max-width: 310px) {
+  .learn-more span {
+    display: none;
+  }
+  .heading {
+    font-size: 19px;
+    margin-top: 50px;
+  }
+  .text-image h1 {
+    font-size: 22px;
+  }
+
+  .text-image p {
+    font-size: 15px;
+  }
+  .card .info {
+    font-size: 13px;
+  }
+  .text-on-image .text {
+    margin-top: 270px;
+  }
+
+  .text-on-image .text h1 {
+    font-size: 20px;
+  }
+  .text-on-image .text p {
+    font-size: 13px;
+  }
+  .footer .footer-links ul {
+    gap: 20px;
+  }
+  .footer .social-icons {
+    gap: 20px;
+  }
+  .navbar .logo {
+    height: 20px;
+  }
+}
