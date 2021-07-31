@@ -191,14 +191,6 @@ p {
   border-radius: 5px;
 }
 
-.yellow-border-bottom {
-  background-color: var(--yellow);
-}
-
-.pink-border-bottom {
-  background-color: var(--soft-red);
-}
-
 /* Text and Images css ends here */
 
 /* Text On Image sections css start */
